@@ -1,0 +1,64 @@
+main[id='player']
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .dropblock {
+    margin: 80px auto;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 300px;
+    background-color: #ADAABF;
+    border: 5px dashed  #92828D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .dropblock h2 {
+    font-family: Haettenschweiler;
+  }
+
+  #player
+  {
+    /* height: 150px; */
+    /* background-color: white; */
+    width: 80%;
+    margin: 0 auto;
+    /* border-radius: 75px; */
+  }
+  .control-btn-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    
+  .control-btn-group .btn-border-circle
+  {
+    box-sizing: border-box;
+    border-radius: 50%;
+    padding: 10px;
+    /* border: 2px solid #ccc; */
+    transition: all .3s linear;
+    padding: 20px 25px;
+  }
+  .control-btn-group .btn-border-circle:hover
+  {
+    box-shadow: 0px 20px 40px -15px #949494;
+    cursor: pointer;
+  }
+  .pauseslash {
+    height: 24px;
+    width: 16px;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+  }
+  .playslash {
+    transition: all .3s linear;
+      width: 0px;
+      height: 0px;
+      border-top: 12px solid transparent;
+      border-left: 16px solid black;
+      border-bottom: 12px solid transparent;
+  }
+}

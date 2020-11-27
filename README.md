@@ -1,4 +1,4 @@
-<font size=4>
+<font size=5>
 
 疫情期间独立完成的个人博客。
 
@@ -37,10 +37,22 @@
 内容截图：
 
 ![home1](./assets/home1.png)
+
+---
+
 ![home2](./assets/home2.png)
-![music](./assets/music.png)
-![blog](./assets/blog.png)
+
+---
+
 ![blog2](./assets/blog2.png)
+
+---
+
+![blog](./assets/blog.png)
+
+---
+
+![music](./assets/music.png)
 
 ---
 

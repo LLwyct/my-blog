@@ -36,23 +36,23 @@
 
 内容截图：
 
-![home1](https://img-blog.csdnimg.cn/20201129122056182.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N3YWxsb3dibGFuaw==,size_16,color_FFFFFF,t_70)
+![home1](/assets/home1.webp)
 
 ---
 
-![home2](https://img-blog.csdnimg.cn/20201129121942873.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N3YWxsb3dibGFuaw==,size_16,color_FFFFFF,t_70)
+![home2](/assets/home2.webp)
 
 ---
 
-![blog2](https://img-blog.csdnimg.cn/20201129122015681.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N3YWxsb3dibGFuaw==,size_16,color_FFFFFF,t_70)
+![blog2](/assets/blog2.webp)
 
 ---
 
-![blog](./assets/blog.png)
+![blog](/assets/blog.png)
 
 ---
 
-![music](https://img-blog.csdnimg.cn/20201129122128313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N3YWxsb3dibGFuaw==,size_16,color_FFFFFF,t_70)
+![music](/assets/music.webp)
 
 ---
 
